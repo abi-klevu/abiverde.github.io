@@ -1,2 +1,18 @@
 Gemfile.lock
-vendor
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+cache/
+
+# Bundler
+.bundle/
+vendor/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
