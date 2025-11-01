@@ -1,13 +1,11 @@
 title: Abi Green
 email: abiverderci@gmail.com
 description: >-
-  Placeholder site
 baseurl: ""
-url: "https://abiver.de"   # use https and your correct domain
+url: "https://abiver.de"  # your domain
 twitter_username: dajve
 github_username: dajve
 
-# Theme config
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
