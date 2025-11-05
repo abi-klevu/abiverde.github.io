@@ -3,8 +3,11 @@ email: abiverderci@gmail.com
 description: >-
 baseurl: ""
 url: "https://abiver.de"  # your domain
-twitter_username: dajve
-github_username: dajve
+show_social_links: true
+github_username: "abi-klevu"
+linkedin_username: "abiverde"
+instagram_username: "abiverde"
+logo: "assets/img/abi-pfp.jpg"
 
 plugins:
   - jekyll-feed
