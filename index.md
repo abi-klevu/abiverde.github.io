@@ -17,6 +17,7 @@ title: Abi Green
 
 * **Meet Magento NL 2025** (6th Nov 2025)  
   *"Good Extension, Bad Extension - How To Tell The Difference Before It's Too Late"*
+  * [Slides](https://speakerdeck.com/abiverde/good-extension-bad-extension-how-to-tell-the-difference-before-its-too-late)
 * **Magento Smackdown** (4th Oct 2025)  
   *"Stop 'Forgetting About' Your Coding Standards With Captain Hook"*
   * [Slides](https://speakerdeck.com/abiverde/stop-forgetting-about-your-coding-standards-with-captain-hook)
@@ -27,7 +28,7 @@ title: Abi Green
 ## Articles
 
 * **[Two days; Four events; 600+ attendees; 33 speakers; One community](https://www.linkedin.com/pulse/two-days-four-events-600-attendees-33-speakers-one-community-green-znq9e)**  
-  *Write-up of Meet Magento UK 2025)
+  *Write-up of Meet Magento UK 2025*
 
 </section>
 
